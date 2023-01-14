@@ -1,0 +1,6 @@
+[book]
+authors = ["Ysabel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "my-book"
